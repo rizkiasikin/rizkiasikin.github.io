@@ -320,6 +320,7 @@ h3.my-profession
 
 .home .home-img img
 {
+	position: fixed;
 	margin: auto;
 	border-radius: 15px;
 	height: 400px;
